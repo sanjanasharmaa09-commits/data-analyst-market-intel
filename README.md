@@ -49,11 +49,10 @@ Missing fields identified mid-analysis: Company name, rating, salary, and postin
 
 Dashboard Preview
 
-(Insert dashboard screenshot here)
+<img width="1105" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/9c13898d-21c0-4669-aafe-e94db4da416a" />
+
 
 The dashboard includes:
-
-
 KPI cards (Total Jobs, Unique Companies, Unique Locations, Average Salary)
 Treemap of top in-demand skills
 Bar chart: skills associated with the highest average salary
