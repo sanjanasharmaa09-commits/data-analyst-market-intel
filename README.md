@@ -57,7 +57,7 @@ Treemap of top in-demand skills
 Bar chart: skills associated with the highest average salary
 Table of most common skill combinations
 Geographic map of job concentration by city
-Donut chart of experience-level distribution
+Donut chart of experience-level distributions.
 Interactive slicers for experience level and company tier (MNC vs. Other)
 
 
