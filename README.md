@@ -3,7 +3,6 @@ Data Analyst Job Market Intelligence Dashboard
 An end-to-end data analytics project that scrapes live Data Analyst job postings from Naukri.com, cleans and analyzes the data, and visualizes hiring trends, in-demand skills, and salary patterns through an interactive Power BI dashboard.
 
 Problem statement..
-
 Most data analyst portfolio projects rely on static, pre-cleaned datasets from Kaggle — the same Netflix, HR Attrition, or Superstore datasets appear on countless resumes. This project takes a different approach: instead of analyzing historical data, it captures a live snapshot of the current job market to answer a practical question — what skills are companies actually hiring for right now, and how do those skills correlate with salary and location?
 
 The goal was to build something that not only demonstrates technical skill, but also generates insights that could genuinely guide a job search — including my own.
