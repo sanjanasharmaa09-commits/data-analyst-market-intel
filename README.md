@@ -78,5 +78,5 @@ Automate the scraper to run on a schedule and track how skill demand shifts over
 Author
 
 Sanjana Sharma
-Final Year BCA (AI & Data Science), Graphic Era Hill University
+Final Year BCA (AI & Data Science)
 GitHub: sanjanasharmaa09
