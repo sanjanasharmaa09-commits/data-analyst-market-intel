@@ -8,7 +8,7 @@ Most data analyst portfolio projects rely on static, pre-cleaned datasets from K
 The goal was to build something that not only demonstrates technical skill, but also generates insights that could genuinely guide a job search — including my own.
 
 
-Tech Stack
+Tech Stack fpr the project
 
 CategoryTools UsedWeb ScrapingPython, Selenium, BeautifulSoupData Cleaning & AnalysisPandas, PythonVisualizationPower BI, DAXVersion ControlGit, GitHub
 
