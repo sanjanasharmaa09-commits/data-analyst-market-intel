@@ -13,7 +13,7 @@ TECH STACK
 CategoryTools UsedWeb ScrapingPython, Selenium, BeautifulSoupData Cleaning & AnalysisPandas, PythonVisualizationPower BI, DAXVersion ControlGit, GitHub
 
 
-Methodology
+Methodologyy
 
 
 Data Collection — Scraped 299+ live Data Analyst job postings from Naukri.com using Selenium (chosen over simple HTTP requests because the site renders listings dynamically via JavaScript).
