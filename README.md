@@ -16,7 +16,7 @@ CategoryTools UsedWeb ScrapingPython, Selenium, BeautifulSoupData Cleaning & Ana
 Methodologyy
 
 
-Data Collection — Scraped 299+ live Data Analyst job postings from Naukri.com using Selenium (chosen over simple HTTP requests because the site renders listings dynamically via JavaScript).
+Data Collection — Scraped 2990++ live Data Analyst job postings from Naukri.com using Selenium (chosen over simple HTTP requests because the site renders listings dynamically via JavaScript).
 Data Cleaning — Removed duplicates, parsed experience ranges and salary bands into numeric fields, standardized location names, and filtered raw scraped skill tags against a curated technical skill whitelist to remove noise.
 Analysis — Identified the most in-demand skills, skill co-occurrence patterns (which skills appear together), salary correlation by skill, and geographic hiring concentration.
 Visualization — Built a single-page interactive Power BI dashboard combining KPI cards, a treemap, a skill-salary bar chart, a geographic map, and a skill-pairing table, with slicers for experience level and company tier.
