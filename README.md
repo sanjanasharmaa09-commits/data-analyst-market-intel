@@ -12,7 +12,6 @@ TECH STACK
 
 CategoryTools UsedWeb ScrapingPython, Selenium, BeautifulSoupData Cleaning & AnalysisPandas, PythonVisualizationPower BI, DAXVersion ControlGit, GitHub
 
-
 Methodologyy
 
 
