@@ -11,9 +11,7 @@ The goal was to build something that not only demonstrates technical skill, but 
 TECH STACK
 
 CategoryTools UsedWeb ScrapingPython, Selenium, BeautifulSoupData Cleaning & AnalysisPandas, PythonVisualizationPower BI, DAXVersion ControlGit, GitHub
-
 Methodologyy
-
 
 Data Collection — Scraped 2990++ live Data Analyst job postings from Naukri.com using Selenium (chosen over simple HTTP requests because the site renders listings dynamically via JavaScript).
 Data Cleaning — Removed duplicates, parsed experience ranges and salary bands into numeric fields, standardized location names, and filtered raw scraped skill tags against a curated technical skill whitelist to remove noise.
